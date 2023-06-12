@@ -6,3 +6,4 @@
 | Telefonica | Jesús Peña |
 | Telefónica | Mona Mokhber |
 | Deutsche Telekom | Rafal Artych |
+| Zain Group | Devajeet Datta |
